@@ -10,5 +10,7 @@ The k-mer data is stored in a self-defined hash table to optimize storage space 
 
 The GUI of this program is in Chinese, and a specification of the program is shown below:
 
+![Specification]https://github.com/hejj16/Gene-Assembing-Program/blob/main/Specification.PNG
+
 
 
